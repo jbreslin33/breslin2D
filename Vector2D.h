@@ -10,10 +10,10 @@
 //
 //------------------------------------------------------------------------
 #include <math.h>
-#include <windows.h>
+//#include <windows.h>
 #include <iosfwd>
 #include <limits>
-#include "misc/utils.h"
+#include "../breslinmisc/utils.h"
 
 
 struct Vector2D
