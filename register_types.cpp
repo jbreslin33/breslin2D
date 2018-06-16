@@ -6,7 +6,7 @@
 #include "geometry.h"
 #include "InvertedAABBox2D.h"
 #include "Transformations.h"
-#include "Vector2d.h"
+#include "Vector2D.h"
 #include "Wall2D.h"
 #include "WallIntersectionTests.h"
 

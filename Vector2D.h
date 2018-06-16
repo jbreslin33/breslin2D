@@ -299,6 +299,7 @@ inline double Vec2DLengthSq(const Vector2D& v)
 }
 
 
+/*
 inline Vector2D POINTStoVector(const POINTS& p)
 {
   return Vector2D(p.x, p.y);
@@ -326,6 +327,7 @@ inline POINT VectorToPOINT(const Vector2D& v)
 
   return p;
 }
+*/
 
 
 

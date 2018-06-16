@@ -11,7 +11,7 @@
 //-----------------------------------------------------------------------------
 
 #include "Vector2D.h"
-#include "../breslinmisc/Cgdi.h"
+//#include "../breslinmisc/Cgdi.h"
 
 class InvertedAABBox2D
 {

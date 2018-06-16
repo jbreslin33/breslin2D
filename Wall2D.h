@@ -11,7 +11,7 @@
 //  Author: Mat Buckland (fup@ai-junkie.com)
 //
 //------------------------------------------------------------------------
-#include "../breslinmisc/Cgdi.h"
+//#include "../breslinmisc/Cgdi.h"
 #include "Vector2D.h"
 #include <fstream>
 
