@@ -4,7 +4,6 @@
 #include "class_db.h"
 #include "C2DMatrix.h"
 #include "geometry.h"
-#include "InvertedAABBox2D.h"
 #include "Transformations.h"
 #include "Vector2D.h"
 #include "Wall2D.h"
@@ -13,7 +12,6 @@
 void register_breslin2D_types() {
 
         ClassDB::register_class<C2DMatrix>();
-        ClassDB::register_class<InvertedAABBox2D>();
         ClassDB::register_class<Wall2D>();
 }
 
