@@ -17,6 +17,6 @@ void register_breslin2D_types() {
         ClassDB::register_class<Wall2D>();
 }
 
-void unregister_summator_types() {
+void unregister_breslin2D_types() {
    //nothing to do here
 }
