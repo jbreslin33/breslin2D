@@ -10,9 +10,11 @@
 #include "Wall2D.h"
 #include "WallIntersectionTests.h"
 
-void register_summator_types() {
+void register_breslin2D_types() {
 
-        ClassDB::register_class<Summator>();
+        ClassDB::register_class<C2DMatrix>();
+        ClassDB::register_class<InvertedAABBox2D>();
+        ClassDB::register_class<Wall2D>();
 }
 
 void unregister_summator_types() {
